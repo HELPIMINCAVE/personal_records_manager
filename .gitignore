@@ -1,0 +1,9 @@
+# Files
+.env
+*.db
+.DS_Store
+
+# Folders
+.venv/
+.idea/
+__pycache__/
